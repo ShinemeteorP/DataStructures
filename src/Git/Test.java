@@ -7,5 +7,6 @@ package Git;
 public class Test {
     public static void main(String[] args) {
         System.out.print( "welcome to git");
+        System.out.print( "welcome to git test1");
     }
 }
